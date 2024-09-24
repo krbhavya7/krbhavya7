@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on Attacks and defenses
+- 🌱 I’m currently learning cyber technology and AI
 <!--
 **krbhavya7/krbhavya7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
